@@ -1,4 +1,4 @@
-# FlowerIT
+# FlowerIT_ResNet50
 from google.colab import drive
 drive.mount('/content/drive')
 
